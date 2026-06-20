@@ -130,7 +130,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         loading,
         login,
         register,
-      logout,isAuthenticated: !!user,}}
+    logout,isAuthenticated: !!user,}}
     >
       {children}
     </AuthContext.Provider>
