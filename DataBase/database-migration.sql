@@ -25,6 +25,7 @@ CREATE TABLE "UserSubject" (
 );
 
 -- CreateTable
+
 CREATE TABLE "UserQuiz" (
     "id" TEXT NOT NULL,
     "userId" TEXT NOT NULL,
