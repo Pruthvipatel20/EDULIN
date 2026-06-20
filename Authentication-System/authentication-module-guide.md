@@ -1,131 +1,31 @@
-# Authentication Module Guide
+# Educational app
+
+*Automatically synced with your [v0.app](https://v0.app) deployments*
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/meenas-projects-c458dc2b/v0-remix-of-educational-app)
+(https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/z8BdICCNpEj)
 
 ## Overview
 
-The Authentication Module is responsible for user authentication, session management, password security, and user state management within the Educational App.
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
----
+## Deployment
 
-## Module Structure
+Your project is live at:
 
-```text
-Authentication-System/
-│
-├── authentication-service.ts
-├── authentication-provider.tsx
-└── authentication-module-guide.md
-```
+**[https://vercel.com/meenas-projects-c458dc2b/v0-remix-of-educational-app](https://vercel.com/meenas-projects-c458dc2b/v0-remix-of-educational-app)**
 
----
+## Build your app
 
-## authentication-service.ts
+Continue building your app on:
 
-### Purpose
+**[https://v0.app/chat/projects/z8BdICCNpEj](https://v0.app/chat/projects/z8BdICCNpEj)**
 
-Provides authentication utilities including:
+## How It Works
 
-* Password hashing
-* Password verification
-* JWT token generation
-* JWT token validation
-
-### Technologies Used
-
-* bcryptjs
-* jsonwebtoken
-
-### Functions
-
-#### hashPassword()
-
-Converts a plain-text password into a secure hashed password.
-
-#### verifyPassword()
-
-Compares user-entered passwords with stored hashed passwords.
-
-#### createToken()
-
-Creates a JWT authentication token.
-
-#### verifyToken()
-
-Validates JWT tokens and extracts user information.
-
----
-
-## authentication-provider.tsx
-
-### Purpose
-
-Manages user authentication state throughout the application.
-
-### Responsibilities
-
-* Login
-* Registration
-* Logout
-* Session restoration
-* Authentication status tracking
-
-### Features
-
-* Stores authentication tokens
-* Maintains user sessions
-* Verifies existing tokens
-* Handles authentication state changes
-
----
-
-## Authentication Flow
-
-User Login
-↓
-Authentication Provider
-↓
-Authentication Service
-↓
-JWT Token Generated
-↓
-Token Stored in Local Storage
-↓
-User Session Active
-
----
-
-## Security Features
-
-* Secure password hashing using bcrypt
-* JWT-based authentication
-* Environment variable protection
-* Session verification
-* Automatic invalid session cleanup
-
----
-
-## Required Environment Variable
-
-```env
-JWT_SECRET=your_secret_key
-```
-
----
-
-## Future Improvements
-
-* Refresh token support
-* Role-based access control
-* Multi-factor authentication
-* Session expiration warnings
-* Login activity monitoring
-
----
-
-## Module Version
-
-Version: 1.0
-
-Maintained By:
-
-* Member B (Authentication System)
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
 
