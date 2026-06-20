@@ -12,6 +12,7 @@ CREATE TABLE "User" (
 );
 
 -- CreateTable
+
 CREATE TABLE "UserSubject" (
     "id" TEXT NOT NULL,
     "userId" TEXT NOT NULL,
