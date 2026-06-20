@@ -24,6 +24,7 @@ CREATE TABLE "UserSubject" (
     CONSTRAINT "UserSubject_pkey" PRIMARY KEY ("id")
 );
 
+
 -- CreateTable
 
 CREATE TABLE "UserQuiz" (
