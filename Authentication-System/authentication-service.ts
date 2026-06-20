@@ -29,7 +29,6 @@ export function createToken(userId: string): string {
 }
 
 
-
 export function verifyToken(token: string): { userId: string } | null {
   try {
     const secret = getJwtSecret()
