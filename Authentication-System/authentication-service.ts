@@ -37,4 +37,3 @@ export function verifyToken(token: string): { userId: string } | null {
     return null
   }
 }
-
