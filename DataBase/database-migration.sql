@@ -12,7 +12,6 @@ CREATE TABLE "User" (
 );
 
 
-
 -- CreateTable
 
 CREATE TABLE "UserSubject" (
