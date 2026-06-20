@@ -43,6 +43,7 @@ CREATE TABLE "UserQuiz" (
 CREATE UNIQUE INDEX "User_email_key" ON "User"("email");
 
 -- CreateIndex
+
 CREATE UNIQUE INDEX "UserSubject_userId_subject_key" ON "UserSubject"("userId", "subject");
 
 -- AddForeignKey
