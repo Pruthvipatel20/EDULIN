@@ -36,7 +36,7 @@ model UserSubject {
 }
 
 
-model UserQuiz {
+ UserQuiz {
   id        String   @id @default(cuid())
   userId    String
   user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
