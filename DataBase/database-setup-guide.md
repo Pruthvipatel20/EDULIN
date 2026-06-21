@@ -4,7 +4,6 @@
 
 This document explains the database structure and setup process used in the EDULIN Educational Learning Platform.
 
-
 The database module is responsible for storing user information, learning progress, quiz results, and managing relationships between different entities within the application.
 
 The project uses:
