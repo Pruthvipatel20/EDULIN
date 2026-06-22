@@ -1,5 +1,6 @@
 export const TRANSLATIONS = {
   
+  
   en: {
     
     chooseSubject: "Choose Your Subject",
@@ -164,7 +165,7 @@ export const TRANSLATIONS = {
     copy: "பகிர்",
   },
 
-  
+
   tel: {
     chooseSubject: "మీ విషయం ఎంచుకోండి",
     selectSubject: "మీ అభ్యాస ప్రయాణాన్ని ప్రారంభించేందుకు విషయాన్ని ఎంచుకోండి",
