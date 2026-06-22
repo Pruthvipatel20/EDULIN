@@ -52,4 +52,3 @@ export function useLanguage(): LanguageContextType {
   }
   return context
 }
-
