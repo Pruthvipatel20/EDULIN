@@ -162,8 +162,7 @@ export const TRANSLATIONS = {
     copy: "பகிர்",
   },
   
- 
-  te: {
+   te: {
     chooseSubject: "మీ విషయం ఎంచుకోండి",
     selectSubject: "మీ అభ్యాస ప్రయాణాన్ని ప్రారంభించేందుకు విషయాన్ని ఎంచుకోండి",
     class: "తరగతి",
