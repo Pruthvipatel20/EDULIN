@@ -1289,7 +1289,7 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
         classLevel: 11,
       },
     ],
-    
+
     12: [
       {
         id: "reproduction-12",
@@ -1983,4 +1983,3 @@ export const SAMPLE_GAMES: Game[] = [
     difficulty: "medium",
   },
 ]
-
