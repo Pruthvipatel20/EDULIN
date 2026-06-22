@@ -34,7 +34,6 @@ export interface Game {
   subjectId?: string
 }
 
-
 export const SUBJECTS_BY_CLASS: Record<string, Subject[]> = {
   "6-8": [
     {
