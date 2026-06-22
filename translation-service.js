@@ -215,4 +215,3 @@ export const TRANSLATIONS = {
     copy: "Copy"
   }
 }
-
