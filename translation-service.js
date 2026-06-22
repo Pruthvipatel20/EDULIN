@@ -214,4 +214,4 @@ export const TRANSLATIONS = {
     clear: "Clear",
     copy: "Copy"
   }
-}
+}}
