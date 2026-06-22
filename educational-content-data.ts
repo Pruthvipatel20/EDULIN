@@ -996,8 +996,9 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
 [O        subjectId: "chemistry",
         classLevel: 9,
       },
-      
+
     ],
+    
     10: [
       {
         id: "acids-bases-salts-10",
