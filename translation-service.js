@@ -109,7 +109,7 @@ export const TRANSLATIONS = {
     copy: "कॉपी करें",
   },
  
-  ta: {
+  tam: {
     chooseSubject: "உங்கள் பாடத்தை தேர்வுசெய்யவும்",
     selectSubject: "உங்கள் பயில்நெறியை தொடங்க ஒரு பாடத்தை தேர்வுசெய்யவும்",
     class: "வகுப்பு",
@@ -161,7 +161,8 @@ export const TRANSLATIONS = {
     clear: "அழிக்கவும்",
     copy: "பகிர்",
   },
-   te: {
+
+  tel: {
     chooseSubject: "మీ విషయం ఎంచుకోండి",
     selectSubject: "మీ అభ్యాస ప్రయాణాన్ని ప్రారంభించేందుకు విషయాన్ని ఎంచుకోండి",
     class: "తరగతి",
