@@ -25,7 +25,6 @@ export interface Question {
   difficulty: "easy" | "medium" | "hard"
 }
 
-
 export interface Game {
   id: string
   title: string
@@ -34,6 +33,7 @@ export interface Game {
   difficulty: "easy" | "medium" | "hard"
   subjectId?: string
 }
+
 
 export const SUBJECTS_BY_CLASS: Record<string, Subject[]> = {
   "6-8": [
