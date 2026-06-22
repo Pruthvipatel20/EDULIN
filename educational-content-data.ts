@@ -1046,7 +1046,7 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
         classLevel: 10,
       },
     ],
-    
+
     11: [
       {
         id: "atomic-structure-11",
@@ -1094,6 +1094,7 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
         classLevel: 11,
       },
     ],
+    
     12: [
       {
         id: "solid-state-12",
