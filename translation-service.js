@@ -108,6 +108,7 @@ export const TRANSLATIONS = {
     clear: "साफ करें",
     copy: "कॉपी करें",
   },
+ 
   ta: {
     chooseSubject: "உங்கள் பாடத்தை தேர்வுசெய்யவும்",
     selectSubject: "உங்கள் பயில்நெறியை தொடங்க ஒரு பாடத்தை தேர்வுசெய்யவும்",
