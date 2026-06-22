@@ -1,6 +1,5 @@
 export const TRANSLATIONS = {
-  
-  
+
   en: {
     
     chooseSubject: "Choose Your Subject",
