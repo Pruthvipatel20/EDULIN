@@ -987,6 +987,7 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
         classLevel: 9,
       },
       {
+     
         id: "life-processes-9",
         title: "The Fundamental Unit of Life",
         description: "Cell structure and functions",
