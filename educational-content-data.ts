@@ -6,7 +6,7 @@ export interface Subject {
   description: string
 }
 
-export interface Topic 
+export interface Topic {
   id: string
   title: string
   description: string
