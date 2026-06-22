@@ -213,5 +213,4 @@ export const TRANSLATIONS = {
     translateFailed: "Translation failed",
     clear: "Clear",
     copy: "Copy"
-  }
-}}
+  }}}}
