@@ -1193,7 +1193,7 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
         classLevel: 9,
       },
     ],
-    
+
     10: [
       {
         id: "life-processes-10",
@@ -1241,6 +1241,7 @@ export const TOPICS_BY_SUBJECT: Record<string, Record<number, Topic[]>> = {
         classLevel: 10,
       },
     ],
+    
     11: [
       {
         id: "diversity-living-world-11",
