@@ -55,6 +55,7 @@ export const TRANSLATIONS = {
     clear: "Clear",
     copy: "Copy",
   },
+ 
   hi: {
     chooseSubject: "अपना विषय चुनें",
     selectSubject: "अपनी शिक्षण यात्रा शुरू करने के लिए विषय चुनें",
