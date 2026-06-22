@@ -56,7 +56,7 @@ export const TRANSLATIONS = {
     copy: "Copy",
   },
  
-  
+
   hi: {
     chooseSubject: "अपना विषय चुनें",
     selectSubject: "अपनी शिक्षण यात्रा शुरू करने के लिए विषय चुनें",
@@ -110,6 +110,7 @@ export const TRANSLATIONS = {
     copy: "कॉपी करें",
   },
  
+  
   tam: {
     chooseSubject: "உங்கள் பாடத்தை தேர்வுசெய்யவும்",
     selectSubject: "உங்கள் பயில்நெறியை தொடங்க ஒரு பாடத்தை தேர்வுசெய்யவும்",
