@@ -212,6 +212,7 @@ export const TRANSLATIONS = {
     translating: "Translating...",
     translateFailed: "Translation failed",
     clear: "Clear",
+    
     copy: "Copy"
   }
 }
