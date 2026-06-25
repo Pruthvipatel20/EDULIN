@@ -1,4 +1,3 @@
-
 declare module "jsonwebtoken" {
   const jwt: {
     sign(payload: any, secretOrPrivateKey: any, options?: any): string
@@ -8,3 +7,6 @@ declare module "jsonwebtoken" {
   }
   export default jwt
 }
+
+
+
