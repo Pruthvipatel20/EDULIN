@@ -5,6 +5,7 @@ import { TRANSLATIONS } from "./trans"
 
 type LanguageCode = keyof typeof TRANSLATIONS
 
+
 interface LanguageContextType {
   language: LanguageCode
   setLanguage: (lang: LanguageCode) => void
