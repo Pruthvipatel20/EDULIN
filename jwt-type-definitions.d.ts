@@ -8,4 +8,3 @@ declare module "jsonwebtoken" {
   export default jwt
 }
 
-
