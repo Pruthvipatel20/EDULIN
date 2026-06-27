@@ -1968,7 +1968,6 @@ snapshots:
   '@next/swc-darwin-x64@14.2.16':
     optional: true
 
-
   '@next/swc-linux-arm64-gnu@14.2.16':
     optional: true
 
