@@ -151,7 +151,7 @@
       "integrity": "sha512-aGTxbpbg8/b5JfU1HXSrbH3wXZuLPJcNEcZQFMxLs3oSzgtVu6nFPkbbGGUvBcUjKV2YyB9Wxxabo+HEH9tcRQ==",
       "license": "MIT"
     },
-    
+
     "node_modules/@hookform/resolvers": {
       "version": "3.10.0",
       "resolved": "https://registry.npmjs.org/@hookform/resolvers/-/resolvers-3.10.0.tgz",
@@ -161,6 +161,7 @@
         "react-hook-form": "^7.0.0"
       }
     },
+    
     "node_modules/@jridgewell/gen-mapping": {
       "version": "0.3.13",
       "resolved": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz",
