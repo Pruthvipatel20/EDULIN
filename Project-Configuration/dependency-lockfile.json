@@ -196,7 +196,7 @@
         "node": ">=6.0.0"
       }
     },
-    
+
     "node_modules/@jridgewell/sourcemap-codec": {
       "version": "1.5.5",
       "resolved": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.5.5.tgz",
@@ -204,6 +204,7 @@
       "dev": true,
       "license": "MIT"
     },
+    
     "node_modules/@jridgewell/trace-mapping": {
       "version": "0.3.31",
       "resolved": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.31.tgz",
