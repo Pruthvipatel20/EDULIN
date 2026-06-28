@@ -92,7 +92,7 @@
         "url": "https://github.com/sponsors/sindresorhus"
       }
     },
-    
+
     "node_modules/@babel/runtime": {
       "version": "7.28.6",
       "resolved": "https://registry.npmjs.org/@babel/runtime/-/runtime-7.28.6.tgz",
@@ -102,6 +102,7 @@
         "node": ">=6.9.0"
       }
     },
+    
     "node_modules/@date-fns/tz": {
       "version": "1.2.0",
       "resolved": "https://registry.npmjs.org/@date-fns/tz/-/tz-1.2.0.tgz",
