@@ -185,7 +185,7 @@
         "@jridgewell/trace-mapping": "^0.3.24"
       }
     },
-    
+
     "node_modules/@jridgewell/resolve-uri": {
       "version": "3.1.2",
       "resolved": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.2.tgz",
@@ -196,6 +196,7 @@
         "node": ">=6.0.0"
       }
     },
+    
     "node_modules/@jridgewell/sourcemap-codec": {
       "version": "1.5.5",
       "resolved": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.5.5.tgz",
