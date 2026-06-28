@@ -274,7 +274,7 @@
         "node": ">= 10"
       }
     },
-    
+
     "node_modules/@next/swc-linux-arm64-musl": {
       "version": "14.2.16",
       "resolved": "https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.2.16.tgz",
@@ -291,6 +291,7 @@
         "node": ">= 10"
       }
     },
+    
     "node_modules/@next/swc-linux-x64-gnu": {
       "version": "14.2.16",
       "resolved": "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.2.16.tgz",
