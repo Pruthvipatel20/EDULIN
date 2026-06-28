@@ -204,7 +204,7 @@
       "dev": true,
       "license": "MIT"
     },
-    
+
     "node_modules/@jridgewell/trace-mapping": {
       "version": "0.3.31",
       "resolved": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.31.tgz",
@@ -216,6 +216,7 @@
         "@jridgewell/sourcemap-codec": "^1.4.14"
       }
     },
+    
     "node_modules/@next/env": {
       "version": "14.2.16",
       "resolved": "https://registry.npmjs.org/@next/env/-/env-14.2.16.tgz",
