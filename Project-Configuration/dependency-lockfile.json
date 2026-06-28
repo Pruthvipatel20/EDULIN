@@ -386,7 +386,7 @@
         "url": "https://github.com/sponsors/panva"
       }
     },
-    
+
     "node_modules/@prisma/client": {
       "version": "5.22.0",
       "resolved": "https://registry.npmjs.org/@prisma/client/-/client-5.22.0.tgz",
@@ -405,6 +405,7 @@
         }
       }
     },
+    
     "node_modules/@prisma/debug": {
       "version": "5.22.0",
       "resolved": "https://registry.npmjs.org/@prisma/debug/-/debug-5.22.0.tgz",
