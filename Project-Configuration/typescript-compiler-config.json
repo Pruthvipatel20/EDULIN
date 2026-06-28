@@ -10,9 +10,6 @@
 
 
 
-
-
-    
     "allowJs": true,
     "target": "ES6",
     "skipLibCheck": true,
