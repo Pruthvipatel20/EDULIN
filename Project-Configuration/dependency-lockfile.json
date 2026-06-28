@@ -119,7 +119,7 @@
         "@floating-ui/utils": "^0.2.10"
       }
     },
-    
+
     "node_modules/@floating-ui/dom": {
       "version": "1.7.4",
       "resolved": "https://registry.npmjs.org/@floating-ui/dom/-/dom-1.7.4.tgz",
@@ -130,6 +130,7 @@
         "@floating-ui/utils": "^0.2.10"
       }
     },
+    
     "node_modules/@floating-ui/react-dom": {
       "version": "2.1.6",
       "resolved": "https://registry.npmjs.org/@floating-ui/react-dom/-/react-dom-2.1.6.tgz",
