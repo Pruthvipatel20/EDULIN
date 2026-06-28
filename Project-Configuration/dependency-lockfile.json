@@ -173,7 +173,7 @@
         "@jridgewell/trace-mapping": "^0.3.24"
       }
     },
-    
+
     "node_modules/@jridgewell/remapping": {
       "version": "2.3.5",
       "resolved": "https://registry.npmjs.org/@jridgewell/remapping/-/remapping-2.3.5.tgz",
@@ -185,6 +185,7 @@
         "@jridgewell/trace-mapping": "^0.3.24"
       }
     },
+    
     "node_modules/@jridgewell/resolve-uri": {
       "version": "3.1.2",
       "resolved": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.2.tgz",
