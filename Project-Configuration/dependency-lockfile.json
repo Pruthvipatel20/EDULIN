@@ -161,7 +161,7 @@
         "react-hook-form": "^7.0.0"
       }
     },
-    
+
     "node_modules/@jridgewell/gen-mapping": {
       "version": "0.3.13",
       "resolved": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz",
@@ -173,6 +173,7 @@
         "@jridgewell/trace-mapping": "^0.3.24"
       }
     },
+    
     "node_modules/@jridgewell/remapping": {
       "version": "2.3.5",
       "resolved": "https://registry.npmjs.org/@jridgewell/remapping/-/remapping-2.3.5.tgz",
