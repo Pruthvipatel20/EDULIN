@@ -405,7 +405,7 @@
         }
       }
     },
-    
+
     "node_modules/@prisma/debug": {
       "version": "5.22.0",
       "resolved": "https://registry.npmjs.org/@prisma/debug/-/debug-5.22.0.tgz",
