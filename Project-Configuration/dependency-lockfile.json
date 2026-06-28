@@ -240,7 +240,7 @@
         "node": ">= 10"
       }
     },
-    
+
     "node_modules/@next/swc-darwin-x64": {
       "version": "14.2.16",
       "resolved": "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-14.2.16.tgz",
@@ -257,6 +257,7 @@
         "node": ">= 10"
       }
     },
+    
     "node_modules/@next/swc-linux-arm64-gnu": {
       "version": "14.2.16",
       "resolved": "https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.2.16.tgz",
