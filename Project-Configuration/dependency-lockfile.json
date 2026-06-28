@@ -119,6 +119,7 @@
         "@floating-ui/utils": "^0.2.10"
       }
     },
+    
     "node_modules/@floating-ui/dom": {
       "version": "1.7.4",
       "resolved": "https://registry.npmjs.org/@floating-ui/dom/-/dom-1.7.4.tgz",
