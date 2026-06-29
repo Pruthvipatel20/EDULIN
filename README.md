@@ -16,7 +16,6 @@
 
 ---
 
-
 # 📖 Overview
 
 The **Authentication & Database Module** is responsible for managing:
