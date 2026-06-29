@@ -29,6 +29,7 @@ The **Authentication & Database Module** is responsible for managing:
 
 This system ensures secure user registration, login, session management, and database communication using modern authentication and database technologies.
 
+
 ---
 
 # 🏗️ System Architecture
