@@ -1,6 +1,5 @@
 # 🎓 EDULIN – Authentication & Database Module
 
-
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge\&logo=next.js)
