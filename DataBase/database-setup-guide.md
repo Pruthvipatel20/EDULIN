@@ -1,5 +1,6 @@
 # Database Setup Guide
 
+
 ## Overview
 
 This document explains the database structure and setup process used in the EDULIN Educational Learning Platform.
