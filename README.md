@@ -21,6 +21,8 @@
 The **Authentication & Database Module** is responsible for managing:
 
 * 🔐 User Authentication
+
+
 * 🛡️ Session Management
 * 🔑 Password Security
 * 🎫 JWT Authorization
