@@ -45,8 +45,8 @@ graph LR
     Prisma[🗄️ Prisma ORM]
     DB[(🐘 PostgreSQL)]
 
-    User --> Frontend
-    Frontend --> AuthProvider
+   
+    hProvider
     AuthProvider --> AuthService
     AuthService --> JWT
     JWT --> Prisma
