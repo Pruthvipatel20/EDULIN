@@ -1,4 +1,4 @@
--- CreateTable
+
 
 CREATE TABLE "User" (
     "id" TEXT NOT NULL,
@@ -8,11 +8,7 @@ CREATE TABLE "User" (
     "createdAt" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
     "updatedAt" TIMESTAMP(3) NOT NULL,
 
-    CONSTRAINT "User_pkey" PRIMARY KEY ("id")
-);
-
-
--- CreateTable
+    CONSTRAINT "User_pkey" PRIMARY KEY ("
 
 CREATE TABLE "UserSubject" (
     "id" TEXT NOT NULL,
